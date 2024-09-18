@@ -20,7 +20,6 @@ Upcoming Features:
 ```
 
 ![](https://i.imgur.com/RGxgAuH.jpg)
-
 ![](https://i.imgur.com/Jahor42.png)
 
 ### Resources
