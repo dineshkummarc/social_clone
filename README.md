@@ -1,7 +1,7 @@
 # Facebook/Social Media Clone
 
 ```
-Technologies Used:
+### Technologies Used:
 - PHP/XAMPP
 - HTML
 - MD5 Password Encryption
@@ -12,7 +12,7 @@ Technologies Used:
 ```
 
 ```
-Upcoming Features:
+### Upcoming Features:
 - Additional Styling/Cleanup + Additional Faker Users
 - Post Content Embed (images, videos)
 - Additional user feedback
